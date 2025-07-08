@@ -6,7 +6,7 @@
 
 <br />
 
-<p align="center">
+<p>
   A passionate <strong>frontend developer</strong> with a strong focus on <strong>React</strong> and <strong>Next.js</strong> 🚀. I specialize in building dynamic, performant web applications using <strong>TypeScript</strong>, <strong>CSS Modules</strong>, and modern component-based architecture. With a keen eye for <strong>UI/UX design</strong>, I bring interfaces to life through <strong>smooth micro-interactions</strong> and responsive layouts, turning creative concepts into polished, user-centered experiences.
 </p>
 
